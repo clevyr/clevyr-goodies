@@ -21,39 +21,39 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 
 *Host the javascript libraries and provide tools for fetching and packaging them.*
 
-* [Bower][5]- A package manager for the web.
-* [component][6]- Client package management for building better web applications.
+* [Bower][5] - A package manager for the web.
+* [component][6] - Client package management for building better web applications.
 * [spm][7] - Brand new static package manager.
 * [browserify][8] - Browser-side require() the node.js way.
-* [jam]()(https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
-* [jspm]()(https://github.com/jspm/jspm-cli) - Frictionless browser package management.
-* [Ender]()(https://github.com/ender-js/Ender) - The no-library library.
-* [volo]()(https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
-* [Duo]()(https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+* [jam][9] - A package manager using a browser-focused and RequireJS compatible repository.
+* [jspm][10] - Frictionless browser package management.
+* [Ender][11] - The no-library library.
+* [volo][12] - Create front end projects from templates, add dependencies, and automate the resulting projects.
+* [Duo][13] - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 
 
 ## Loaders
 *Module or loading system for JavaScript.*
 
-* [RequireJS]()(https://github.com/jrburke/requirejs) - A file and module loader for JavaScript.
-* [SeaJS]()(https://github.com/seajs/seajs) - A Module Loader for the Web.
-* [HeadJS]()(https://github.com/headjs/headjs) - The only script in your HEAD.
-* [curl]()(https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
-* [lazyload]()(https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
-* [script.js]()(https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
-* [systemjs]()(https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
-* [webpack]()(https://github.com/webpack/webpack) - Module loader made for big projects. Supports AMD, CommonJS, and more.
+* [RequireJS][14] - A file and module loader for JavaScript.
+* [SeaJS][15] - A Module Loader for the Web.
+* [HeadJS][16] - The only script in your HEAD.
+* [curl][17] - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
+* [lazyload][18] - Tiny, dependency-free async JavaScript and CSS loader.
+* [script.js][19] - Asyncronous JavaScript loader and dependency manager.
+* [systemjs][20] - AMD, CJS & ES6 spec-compliant module loader.
+* [webpack][21] - Module loader made for big projects. Supports AMD, CommonJS, and more.
 
 
 ## Testing Frameworks
 
 ### Frameworks
 
-* [mocha]()(https://github.com/visionmedia/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
-* [jasmine]()(https://github.com/pivotal/jasmine) - DOM-less simple JavaScript testing framework.
-* [qunit]()(https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
-* [jest]()(http://github.com/facebook/jest) - Painless Javascript Unit Testing.
-* [prova]()(http://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
+* [mocha][22] - Simple, flexible, fun javascript test framework for node.js & the browser.
+* [jasmine][23] - DOM-less simple JavaScript testing framework.
+* [qunit][24] - An easy-to-use JavaScript Unit Testing framework.
+* [jest][25] - Painless Javascript Unit Testing.
+* [prova][26] - Node & Browser test runner based on Tape and Browserify
 
 ### Assertion
 
@@ -774,6 +774,24 @@ A list of awesome [AngularJs]()(http://angularjs.org) services, directives, util
 [6]:	https://github.com/component/component
 [7]:	https://github.com/spmjs/spm
 [8]:	https://github.com/substack/node-browserify
+[9]:	https://github.com/caolan/jam
+[10]:	https://github.com/jspm/jspm-cli
+[11]:	https://github.com/ender-js/Ender
+[12]:	https://github.com/volojs/volo
+[13]:	https://github.com/duojs/duo
+[14]:	https://github.com/jrburke/requirejs
+[15]:	https://github.com/seajs/seajs
+[16]:	https://github.com/headjs/headjs
+[17]:	https://github.com/cujojs/curl
+[18]:	https://github.com/rgrove/lazyload/
+[19]:	https://github.com/ded/script.js
+[20]:	https://github.com/systemjs/systemjs
+[21]:	https://github.com/webpack/webpack
+[22]:	https://github.com/visionmedia/mocha
+[23]:	https://github.com/pivotal/jasmine
+[24]:	https://github.com/jquery/qunit
+[25]:	http://github.com/facebook/jest
+[26]:	http://github.com/azer/prova
 [28]:	http://spmjs.io/package/chai
 [30]:	http://spmjs.io/package/sinon
 [32]:	http://spmjs.io/package/expect.js
