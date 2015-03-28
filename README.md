@@ -18,6 +18,9 @@ List of tools that we love.
 #### Tools we use:
 - [textMate][10] - a great text editor and a coders dream.
 - [SequelPro][11] - a fast, easy-to-use Mac database management application for working with MySQL databases.
+- [Atom][12] - A hackable text editor for the 21st Century.
+- [Kitematic][13] - The easiest way to use Docker on your Mac.
+- [ungit][14] - The easiest way to use git. On any platform. Anywhere.
 
 [1]:	http://www.rethinkdb.com
 [2]:	http://pouchdb.com
@@ -30,3 +33,6 @@ List of tools that we love.
 [9]:	https://github.com/gianarb/awesome-angularjs
 [10]:	http://macromates.com
 [11]:	http://www.sequelpro.com
+[12]:	https://atom.io
+[13]:	https://kitematic.com/
+[14]:	https://github.com/FredrikNoren/ungit
