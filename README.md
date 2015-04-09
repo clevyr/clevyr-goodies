@@ -14,6 +14,7 @@ List of tools that we love.
 - [Atom][12] - A hackable text editor for the 21st Century.
 - [Kitematic][13] - The easiest way to use Docker on your Mac.
 - [ungit][14] - The easiest way to use git. On any platform. Anywhere.
+- [Cocoa Rest Client][17] - A free open source, native Apple OS X app for testing HTTP/REST endpoints
 
 #### Awesome Frameworks
 - [Ionic][15] - The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5.
@@ -42,3 +43,4 @@ List of tools that we love.
 [14]:	https://github.com/FredrikNoren/ungit
 [15]:	http://ionicframework.com/
 [16]:	http://mean.io/#!/
+[17]:	http://mmattozzi.github.io/cocoa-rest-client/
