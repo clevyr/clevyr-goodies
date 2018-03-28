@@ -3,6 +3,7 @@ List of tools that we love.
 
 
 #### Databases:
+- [http://couchdb.apache.org/][19] - Data Where You Need It.
 - [http://www.rethinkdb.com][1] - An open-source distributed database built with love.
 - [http://pouchdb.com][2] - a JavaScript database that syncs.
 - [http://mongodb.com][3] - Scalable, Adaptable, Fast: Database for Modern Applications
@@ -46,3 +47,4 @@ List of tools that we love.
 [16]:	http://mean.io/#!/
 [17]:	http://mmattozzi.github.io/cocoa-rest-client/
 [18]: https://github.com/sferik/t
+[19]: http://couchdb.apache.org
